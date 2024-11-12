@@ -1,7 +1,6 @@
 ## DATE:
-## REG NO:212223230156
-## NAME: A K PREETHI
-# Circulate-the-values-of-N-variables
+
+# EXP-2: Circulate-the-values-of-N-variables
 ## Aim:To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
 PC
@@ -21,6 +20,10 @@ slice the number of values required
 ### Step 6: 
 Then paste it at the back to circulate
 ## Program:
+```
+DEVELOPED BY:A K PREETHI
+REGISTER NUMBER:212223230156
+
 def circulate():
 
     l=eval(input())
@@ -30,6 +33,8 @@ def circulate():
     l=l[n:]+l[:n]
     
     print(f"After circulating the values are: {l}")
+
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/a197755b-f7bd-49e7-bb32-1db62f5473e1)
